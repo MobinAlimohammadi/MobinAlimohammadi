@@ -1,12 +1,20 @@
+<!--
+PROFILE README SETUP (quick):
+1) Repo name must be EXACTLY: MobinAlimohammadi
+2) README.md must be in the repo root
+-->
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0b1220&height=140&section=header&text=Mobin%20Alimohammadi&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
+</div>
 
 <div align="center">
 
-# Mobin Alimohammadi
+### Embedded + Power Electronics • Robotics • ML Evaluation
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=900&lines=Embedded+%2B+Power+Electronics+%7C+Robotics+%7C+ML+Evaluation;Electrical+Engineering+%40+University+of+Toronto+(PEY+Co-op);Measure+%E2%86%92+Debug+%E2%86%92+Iterate+%E2%86%92+Ship" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=850&center=true&vCenter=true&width=900&lines=Electrical+Engineering+%40+University+of+Toronto+(PEY+Co-op);BLDC+motors+%7C+UAVs+%7C+electric+drivetrains;Evaluation+harnesses+%7C+test+benches+%7C+control+loops;measure+-%3E+debug+-%3E+iterate+-%3E+ship" />
 
-<img src="https://komarev.com/ghpvc/?username=MobinAlimohammadi&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=MobinAlimohammadi&style=flat-square&color=111827" />
 <img src="https://img.shields.io/badge/UofT-Electrical%20Engineering-111827?style=flat-square" />
 <img src="https://img.shields.io/badge/Focus-Embedded%20%2F%20Power%20%2F%20Robotics-111827?style=flat-square" />
 
@@ -14,46 +22,79 @@
 
 ---
 
-### `~/about`
+## `~/about`
 
 I build hardware-adjacent software: control loops, test benches, evaluation harnesses, and the glue between sensors, actuators, and models.
 
 ```bash
 $ whoami
-Electrical Engineering @ University of Toronto (PEY Co-op) • Toronto, ON
+Mobin Alimohammadi
+Electrical Engineering @ University of Toronto (PEY Co-op)
+Toronto, ON
 
 $ interests
-- embedded + power electronics (BLDC systems, PCBs, efficiency)
-- robotics + simulation (ArduPilot, Isaac Sim/Lab, Jax Sim)
-- multimodal ML evaluation (reasoning/perception failure modes)
-- systems mindset: measure → debug → iterate → ship
-````
+embedded + power electronics (BLDC systems, PCBs, efficiency)
+robotics + simulation (ArduPilot, Isaac Sim/Lab, Jax Sim)
+multimodal ML evaluation (reasoning/perception failure modes)
+systems mindset: measure -> debug -> iterate -> ship
+```
 
 **Highlights**
-
-* **Research Assistant (Google DeepMind — Gemini project):** built structured multimodal evaluation datasets + supported internal benchmarking.
-* **Electric powertrain engineering:** HV/LV wiring + accumulator integration + Python validation tooling for drivetrain testing.
-* **Autonomous UAV platform:** sub-250g stack (GPS/IMU/ESCs/ArduPilot), redesigning for efficiency + control.
-* **BLDC optimization research:** large test matrix + harmonic/cogging analysis + physics-informed optimization framing.
-* **Blockchain experimentation:** Litecoin-based fork exploring UTXO validation + configurable consensus parameters.
-* **Product shipping:** co-founded a mobile platform scaling to thousands of downloads across regional markets.
-
----
-
-### `~/toolchain`
-
-**Languages:** Python • C++ • JavaScript • Bash
-**Embedded/Power:** BLDC motor systems • PCB prototyping • power electronics fundamentals
-**Robotics/Sim:** ArduPilot • Isaac Sim/Lab • Jax Sim
-**Web/Backend:** Node.js • Express • Vue • MongoDB • REST APIs
-**Systems:** Linux • Git • Virtual Machines (VirtualBox/VMware)
+- **Research Assistant (Google DeepMind — Gemini project):** built structured multimodal evaluation datasets + supported internal benchmarking experiments.
+- **Electric powertrain engineering:** HV/LV wiring + accumulator integration + Python validation tooling for drivetrain testing and verification.
+- **Autonomous UAV platform:** sub-250g stack (GPS/IMU/ESCs/ArduPilot), redesigning for efficiency + control.
+- **BLDC optimization research:** large test matrix + harmonic/cogging analysis + physics-informed optimization framing.
+- **Blockchain experimentation:** Litecoin-based fork exploring UTXO validation + configurable consensus parameters.
+- **Product shipping:** co-founded a mobile platform scaling to thousands of downloads across regional markets.
 
 ---
 
-### `~/stats` (reliable-first)
+## `~/toolchain`
 
-<!-- Summary Cards tend to load more reliably -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=650&center=true&vCenter=true&width=900&lines=Python+%7C+C%2B%2B+%7C+JavaScript+%7C+Bash;Embedded%2FPower%3A+BLDC+%7C+PCBs+%7C+Power+Electronics;Robotics%2FSim%3A+ArduPilot+%7C+Isaac+Sim%2FLab+%7C+Jax+Sim;Web%3A+Node+%7C+Express+%7C+Vue+%7C+MongoDB;Systems%3A+Linux+%7C+Git+%7C+VMs" />
+</div>
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,bash,nodejs,express,vue,mongodb,linux,git&perline=10" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/ArduPilot-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Isaac%20Sim-111827?style=flat-square&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAX%20Sim-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Power%20Electronics-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/PCB%20Prototyping-111827?style=flat-square" />
+</div>
+
+---
+
+## `~/featured repos`
+
+<!-- Swap these repo names anytime. These are pulled from your current public repos list. -->
+<div align="center">
+  <a href="https://github.com/MobinAlimohammadi/students-rest-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MobinAlimohammadi&repo=students-rest-api&theme=github_dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/MobinAlimohammadi/budget-tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MobinAlimohammadi&repo=budget-tracker&theme=github_dark&hide_border=true" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/MobinAlimohammadi/Horse-Racing">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MobinAlimohammadi&repo=Horse-Racing&theme=github_dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/MobinAlimohammadi/Higher-Order-Array-Functions">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MobinAlimohammadi&repo=Higher-Order-Array-Functions&theme=github_dark&hide_border=true" />
+  </a>
+</div>
+
+---
+
+## `~/stats` (reliable-first)
+
+<!-- Summary Cards usually load more reliably than classic stats -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MobinAlimohammadi&theme=github_dark" />
 </div>
@@ -63,8 +104,7 @@ $ interests
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MobinAlimohammadi&theme=github_dark" />
 </div>
 
-<!-- Classic stats (can be rate-limited sometimes) -->
-
+<!-- Classic stats (can be rate-limited). If these break, delete this block. -->
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=MobinAlimohammadi&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=21600" />
   <img height="160" src="https://streak-stats.demolab.com?user=MobinAlimohammadi&theme=github-dark&hide_border=true" />
@@ -76,14 +116,9 @@ $ interests
 
 ---
 
-### `~/extras`
+## `~/snake` (generated by your GitHub Actions)
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MobinAlimohammadi&theme=darkhub&no-frame=true&row=1&column=7" />
-</div>
-
-<!-- Optional: contribution snake (add the workflow below) -->
-
+<!-- After you set up the workflow (steps below), uncomment this: -->
 <!--
 <div align="center">
   <img src="https://raw.githubusercontent.com/MobinAlimohammadi/MobinAlimohammadi/output/github-contribution-grid-snake-dark.svg" />
@@ -92,11 +127,12 @@ $ interests
 
 ---
 
-### `~/connect`
+## `~/connect`
 
-* LinkedIn: **[placeholder]**
-* Email: **[placeholder]**
-* Portfolio: **[placeholder]**
+- LinkedIn: **[placeholder]**
+- Email: **[placeholder]**
+- Portfolio: **[placeholder]**
 
-````
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,100:111827&height=110&section=footer&animation=fadeIn" width="100%" />
+</div>
