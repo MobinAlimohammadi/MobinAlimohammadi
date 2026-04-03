@@ -1,8 +1,4 @@
 
-<div align="center">
-  
-  <img src="./assets/hero-anim.svg" width="100%" alt="animated circuit / drone hero" />
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0b1220&height=150&section=header&text=Mobin%20Alimohammadi&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="header"/>
