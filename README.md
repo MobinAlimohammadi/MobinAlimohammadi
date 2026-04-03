@@ -1,11 +1,6 @@
-<!--
-PROFILE README SETUP (must-do)
-- Repo name MUST be exactly: MobinAlimohammadi
-- File MUST be: MobinAlimohammadi/README.md
--->
 
 <div align="center">
-  <!-- Put this file in your repo at: /assets/hero-anim.svg -->
+  
   <img src="./assets/hero-anim.svg" width="100%" alt="animated circuit / drone hero" />
 </div>
 
