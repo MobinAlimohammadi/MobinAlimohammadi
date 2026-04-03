@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+
+    <linearGradient id="trace" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.0"/>
+      <stop offset="0.35" stop-color="#22d3ee" stop-opacity="0.9"/>
+      <stop offset="0.65" stop-color="#a78bfa" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity="0.0"/>
+    </linearGradient>
+
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      .grid { stroke: rgba(255,255,255,0.08); stroke-width: 1; }
+      .wire { stroke: rgba(255,255,255,0.18); stroke-width: 2; fill: none; }
+      .sig  { stroke: url(#trace); stroke-width: 3; fill: none; filter: url(#glow); }
+      .dot  { fill: rgba(255,255,255,0.55); }
+      .dot2 { fill: rgba(34,211,238,0.9); filter: url(#glow); }
+      .dot3 { fill: rgba(167,139,250,0.85); filter: url(#glow); }
+      .title { fill: rgba(255,255,255,0.70); font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono","Courier New", monospace; font-size: 16px; }
+      .sub { fill: rgba(255,255,255,0.50); font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono","Courier New", monospace; font-size: 12px; }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="360" rx="28" fill="url(#bg)"/>
+
+  <!-- grid -->
+  <g>
+    <line class="grid" x1="80" y1="40" x2="80" y2="320"/>
+    <line class="grid" x1="180" y1="40" x2="180" y2="320"/>
+    <line class="grid" x1="280" y1="40" x2="280" y2="320"/>
+    <line class="grid" x1="380" y1="40" x2="380" y2="320"/>
+    <line class="grid" x1="480" y1="40" x2="480" y2="320"/>
+    <line class="grid" x1="580" y1="40" x2="580" y2="320"/>
+    <line class="grid" x1="680" y1="40" x2="680" y2="320"/>
+    <line class="grid" x1="780" y1="40" x2="780" y2="320"/>
+    <line class="grid" x1="880" y1="40" x2="880" y2="320"/>
+    <line class="grid" x1="980" y1="40" x2="980" y2="320"/>
+    <line class="grid" x1="1080" y1="40" x2="1080" y2="320"/>
+
+    <line class="grid" x1="40" y1="80" x2="1160" y2="80"/>
+    <line class="grid" x1="40" y1="150" x2="1160" y2="150"/>
+    <line class="grid" x1="40" y1="220" x2="1160" y2="220"/>
+    <line class="grid" x1="40" y1="290" x2="1160" y2="290"/>
+  </g>
+
+  <!-- wiring -->
+  <path class="wire" d="M80 250 C170 250, 170 110, 260 110 C350 110, 350 280, 440 280 C530 280, 530 140, 620 140 C710 140, 710 230, 800 230 C890 230, 890 160, 980 160 C1070 160, 1070 260, 1120 260"/>
+
+  <!-- animated signal sweep on top of the wire -->
+  <path class="sig" d="M80 250 C170 250, 170 110, 260 110 C350 110, 350 280, 440 280 C530 280, 530 140, 620 140 C710 140, 710 230, 800 230 C890 230, 890 160, 980 160 C1070 160, 1070 260, 1120 260">
+    <animate attributeName="stroke-dasharray" values="0,9999;240,9999;0,9999" dur="3.2s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-dashoffset" values="0;-680;0" dur="3.2s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- nodes -->
+  <circle class="dot" cx="260" cy="110" r="5"/>
+  <circle class="dot" cx="440" cy="280" r="5"/>
+  <circle class="dot2" cx="620" cy="140" r="5"/>
+  <circle class="dot3" cx="980" cy="160" r="5"/>
+  <circle class="dot" cx="1120" cy="260" r="5"/>
+
+  <!-- minimal drone silhouette -->
+  <g transform="translate(890,78)" opacity="0.90">
+    <rect x="70" y="88" width="100" height="18" rx="9" fill="rgba(255,255,255,0.10)" stroke="rgba(255,255,255,0.22)"/>
+    <circle cx="56" cy="97" r="16" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.22)"/>
+    <circle cx="184" cy="97" r="16" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.22)"/>
+    <line x1="70" y1="97" x2="56" y2="97" stroke="rgba(255,255,255,0.22)"/>
+    <line x1="170" y1="97" x2="184" y2="97" stroke="rgba(255,255,255,0.22)"/>
+    <circle cx="56" cy="97" r="4" fill="rgba(34,211,238,0.85)" filter="url(#glow)"/>
+    <circle cx="184" cy="97" r="4" fill="rgba(167,139,250,0.75)" filter="url(#glow)"/>
+  </g>
+
+  <!-- labels -->
+  <text class="title" x="58" y="62">embedded • power • robotics • eval</text>
+  <text class="sub" x="58" y="330">animated hero illustration (place above your banner)</text>
+</svg>
