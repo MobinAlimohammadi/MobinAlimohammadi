@@ -123,6 +123,7 @@
 ---
 
 <pre align="center">
+  
                                                                     ||
                                                   __..--".          ||
                                  __..--""`._..--"" . . . .`.        ||
@@ -156,9 +157,9 @@
                  \`|    ._)/   '           `-..--"
                   \\  `---"   /
                    `.       _/
-         _ Seal _    `-..--"
+                     `-..--"
 
-  
+                       
 </pre>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0a0a,50:5c0f0f,100:9e1b1b&height=120&section=footer&animation=fadeIn" width="100%" alt="footer"/>
