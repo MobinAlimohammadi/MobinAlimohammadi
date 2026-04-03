@@ -1,153 +1,135 @@
 <!--
-PROFILE README SETUP
+PROFILE README SETUP (must-do)
 - Repo name MUST be exactly: MobinAlimohammadi
 - File MUST be: MobinAlimohammadi/README.md
 -->
 
 <div align="center">
-  <!-- 1) Add this file to your repo: /assets/hero.svg  (content provided separately below) -->
-  <img src="./assets/hero.svg" width="900" alt="circuit-drone illustration" />
+  <!-- Put this file in your repo at: /assets/hero-anim.svg -->
+  <img src="./assets/hero-anim.svg" width="100%" alt="animated circuit / drone hero" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0b1220&height=140&section=header&text=Mobin%20Alimohammadi&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0b1220&height=150&section=header&text=Mobin%20Alimohammadi&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="header"/>
 </div>
 
 <div align="center">
 
-### Embedded + Power Electronics • Robotics • ML Evaluation
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=850&center=true&vCenter=true&width=980&lines=Embedded+%2B+Power+Electronics+%E2%80%A2+Robotics+%E2%80%A2+ML+Evaluation;BLDC+motors+%7C+UAVs+%7C+electric+drivetrains;measure+-%3E+debug+-%3E+iterate+-%3E+ship" alt="typing"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=850&center=true&vCenter=true&width=900&lines=Electrical+Engineering+%40+University+of+Toronto+(PEY+Co-op);BLDC+motors+%7C+UAVs+%7C+electric+drivetrains;Evaluation+harnesses+%7C+test+benches+%7C+control+loops;measure+-%3E+debug+-%3E+iterate+-%3E+ship" />
-
-<img src="https://komarev.com/ghpvc/?username=MobinAlimohammadi&style=flat-square&color=111827" />
-<img src="https://img.shields.io/badge/UofT-Electrical%20Engineering-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/Focus-Embedded%20%2F%20Power%20%2F%20Robotics-111827?style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=MobinAlimohammadi&style=flat-square&color=111827" alt="views"/>
+<img src="https://img.shields.io/badge/UofT-Electrical%20Engineering-111827?style=flat-square" alt="uoft"/>
+<img src="https://img.shields.io/badge/Focus-Embedded%20%2F%20Power%20%2F%20Robotics-111827?style=flat-square" alt="focus"/>
 
 </div>
 
 ---
 
-## `~/about`
+<table>
+  <tr>
+    <td valign="top" width="34%">
 
-```text
-$ intro
-I build hardware-adjacent software: control loops, test benches, evaluation harnesses,
-and the glue between sensors, actuators, and models.
+### ⚡ Focus
+- Embedded + power electronics  
+- Robotics & simulation  
+- Multimodal eval + benchmarking  
+- Measurement-driven engineering  
 
-$ whoami
-Mobin Alimohammadi
-Electrical Engineering @ University of Toronto (PEY Co-op)
-Toronto, ON
+    </td>
+    <td valign="top" width="33%">
 
-$ interests
-embedded + power electronics  |  BLDC systems, PCBs, efficiency
-robotics + simulation         |  ArduPilot, Isaac Sim/Lab, Jax Sim
-multimodal ML evaluation      |  reasoning/perception failure modes
-systems mindset               |  measure -> debug -> iterate -> ship
+### 🧩 Building
+- Sub-250g UAV platform (ArduPilot, custom power)  
+- Drivetrain validation tooling (Python)  
+- BLDC optimization + testbench workflows  
+- Distributed systems experiments (UTXO / consensus)  
 
-$ highlights
-- Research Assistant (Google DeepMind — Gemini project)
-  built structured multimodal evaluation datasets + supported internal benchmarking
+    </td>
+    <td valign="top" width="33%">
 
-- Electric powertrain engineering (UofT Supermileage / Formula Racing)
-  HV/LV wiring + accumulator integration + Python validation tooling for drivetrain testing
+### 🤝 Connect
+- LinkedIn: **[placeholder]**  
+- Email: **[placeholder]**  
+- Portfolio: **[placeholder]**  
 
-- Autonomous UAV platform
-  sub-250g stack (GPS/IMU/ESCs/ArduPilot), redesigning for efficiency + control
-
-- BLDC optimization research
-  large test matrix + harmonic/cogging analysis + physics-informed optimization framing
-
-- Blockchain experimentation
-  Litecoin-based fork exploring UTXO validation + configurable consensus parameters
-
-- Product shipping
-  co-founded a mobile platform scaling to thousands of downloads across regional markets
-```
+    </td>
+  </tr>
+</table>
 
 ---
 
-## `~/toolchain`
+## ✨ Highlights (quick + readable)
+
+- **Google DeepMind — Gemini project:** structured multimodal eval datasets + internal benchmarking support  
+- **Electric powertrain engineering:** HV/LV + accumulator integration + drivetrain test/validation tooling  
+- **Autonomous UAV:** GPS/IMU/ESC stack + efficiency/control redesign  
+- **BLDC research:** harmonic/cogging analysis + physics-informed optimization framing  
+- **Shipped product:** co-founded a mobile platform scaling to **3,000+** downloads  
+
+---
+
+## 🧰 Toolchain (same-size brands)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=650&center=true&vCenter=true&width=900&lines=languages%3A+python+%7C+c%2B%2B+%7C+javascript+%7C+bash;platform%3A+linux+%7C+git+%7C+vms;embedded%3A+arduino+%7C+pcbs+%7C+power+electronics;robotics%2Fsim%3A+ardupilot+%7C+nvidia+isaac+sim+%7C+jax+sim;web%3A+node+%7C+express+%7C+vue+%7C+mongodb" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,bash,linux,git,docker,arduino,nodejs,express,vue,mongodb&perline=12" alt="skill icons"/>
 </div>
 
 <div align="center">
-  <!-- uniform size badges (same height/weight for every brand/logo) -->
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-111827?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/VMware-111827?style=for-the-badge&logo=vmware&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Arduino-111827?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/NVIDIA-111827?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue-111827?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArduPilot-111827?style=for-the-badge&logo=drone&logoColor=white" />
+  <img src="https://img.shields.io/badge/Isaac%20Sim%2FLab-111827?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAX%20Sim-111827?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Electronics-111827?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PCB%20Prototyping-111827?style=for-the-badge&logo=probot&logoColor=white" />
 </div>
 
 ---
 
-## `~/projects`
+## 📌 Featured (GitHub-native cards — no rate limits)
 
-> Your pinned “repo cards” broke because `github-readme-stats` is frequently rate-limited.  
-> These links use GitHub-native + shields (much more reliable).
-
-- **ics3u-23-24**
-  <br/>
-  <a href="https://github.com/MobinAlimohammadi/ics3u-23-24"><img src="https://img.shields.io/badge/repo-open-111827?style=flat-square"/></a>
-  <img src="https://img.shields.io/github/stars/MobinAlimohammadi/ics3u-23-24?style=flat-square&label=stars&color=111827" />
-  <img src="https://img.shields.io/github/last-commit/MobinAlimohammadi/ics3u-23-24?style=flat-square&label=last%20commit&color=111827" />
-
-- **budget-tracker**
-  <br/>
-  <a href="https://github.com/MobinAlimohammadi/budget-tracker"><img src="https://img.shields.io/badge/repo-open-111827?style=flat-square"/></a>
-  <img src="https://img.shields.io/github/stars/MobinAlimohammadi/budget-tracker?style=flat-square&label=stars&color=111827" />
-  <img src="https://img.shields.io/github/last-commit/MobinAlimohammadi/budget-tracker?style=flat-square&label=last%20commit&color=111827" />
-
-- **students-rest-api**
-  <br/>
-  <a href="https://github.com/MobinAlimohammadi/students-rest-api"><img src="https://img.shields.io/badge/repo-open-111827?style=flat-square"/></a>
-  <img src="https://img.shields.io/github/stars/MobinAlimohammadi/students-rest-api?style=flat-square&label=stars&color=111827" />
-  <img src="https://img.shields.io/github/last-commit/MobinAlimohammadi/students-rest-api?style=flat-square&label=last%20commit&color=111827" />
-
-- **Horse-Racing**
-  <br/>
-  <a href="https://github.com/MobinAlimohammadi/Horse-Racing"><img src="https://img.shields.io/badge/repo-open-111827?style=flat-square"/></a>
-  <img src="https://img.shields.io/github/stars/MobinAlimohammadi/Horse-Racing?style=flat-square&label=stars&color=111827" />
-  <img src="https://img.shields.io/github/last-commit/MobinAlimohammadi/Horse-Racing?style=flat-square&label=last%20commit&color=111827" />
-
-- **Higher-Order-Array-Functions**
-  <br/>
-  <a href="https://github.com/MobinAlimohammadi/Higher-Order-Array-Functions"><img src="https://img.shields.io/badge/repo-open-111827?style=flat-square"/></a>
-  <img src="https://img.shields.io/github/stars/MobinAlimohammadi/Higher-Order-Array-Functions?style=flat-square&label=stars&color=111827" />
-  <img src="https://img.shields.io/github/last-commit/MobinAlimohammadi/Higher-Order-Array-Functions?style=flat-square&label=last%20commit&color=111827" />
-
----
-
-## `~/stats` (reliable-first)
-
+<!-- These use GitHub’s own OpenGraph images (reliable). Swap repos any time. -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MobinAlimohammadi&theme=github_dark" />
+  <a href="https://github.com/MobinAlimohammadi/budget-tracker">
+    <img src="https://opengraph.githubassets.com/1/MobinAlimohammadi/budget-tracker" width="49%" alt="budget-tracker"/>
+  </a>
+  <a href="https://github.com/MobinAlimohammadi/students-rest-api">
+    <img src="https://opengraph.githubassets.com/1/MobinAlimohammadi/students-rest-api" width="49%" alt="students-rest-api"/>
+  </a>
 </div>
 
 <div align="center">
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MobinAlimohammadi&theme=github_dark" />
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MobinAlimohammadi&theme=github_dark" />
+  <a href="https://github.com/MobinAlimohammadi/Horse-Racing">
+    <img src="https://opengraph.githubassets.com/1/MobinAlimohammadi/Horse-Racing" width="49%" alt="Horse-Racing"/>
+  </a>
+  <a href="https://github.com/MobinAlimohammadi/ics3u-23-24">
+    <img src="https://opengraph.githubassets.com/1/MobinAlimohammadi/ics3u-23-24" width="49%" alt="ics3u-23-24"/>
+  </a>
+</div>
+
+<details>
+  <summary><b>More repos</b></summary>
+
+- https://github.com/MobinAlimohammadi?tab=repositories
+
+</details>
+
+---
+
+## 📈 Stats (reliable)
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MobinAlimohammadi&theme=github_dark" alt="summary"/>
+</div>
+
+<div align="center">
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MobinAlimohammadi&theme=github_dark" alt="langs"/>
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MobinAlimohammadi&theme=github_dark" alt="commits"/>
 </div>
 
 ---
 
-## `~/snake`
+## 🐍 Snake (auto-generated)
 
-<!-- This shows automatically once your workflow has produced files in the `output` branch. -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MobinAlimohammadi/MobinAlimohammadi/output/github-contribution-grid-snake-dark.svg" />
@@ -157,12 +139,6 @@ $ highlights
 
 ---
 
-## `~/connect`
-
-- LinkedIn: **[placeholder]**
-- Email: **[placeholder]**
-- Portfolio: **[placeholder]**
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,100:111827&height=110&section=footer&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,100:111827&height=120&section=footer&animation=fadeIn" width="100%" alt="footer"/>
 </div>
