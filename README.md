@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0b1220&height=150&section=header&text=Mobin%20Alimohammadi&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7a1f14,100:e36414&height=150&section=header&text=Mobin%20Alimohammadi&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="header"/>
 </div>
 
 <div align="center">
