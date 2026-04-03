@@ -121,7 +121,8 @@
 
 ![snake animation](https://github.com/MobinAlimohammadi/MobinAlimohammadi/blob/output/github-contribution-grid-snake2.svg)
 ---
-
+<pre align="center">
+  
   
                        _  _     ____________.--.
                   |\|_|//_.-"" .'    \   /|  |
@@ -153,7 +154,7 @@ _____....-//___|  \_\  |  |=====| |   |_|_\\      |___\\    .                 ..
           ......           . ..                       ......'
              .......             '...              ....
                                    ''''''      .              .
-
+                </pre>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0a0a,50:5c0f0f,100:9e1b1b&height=120&section=footer&animation=fadeIn" width="100%" alt="footer"/>
