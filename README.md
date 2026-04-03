@@ -121,7 +121,7 @@
 
 ![snake animation](https://github.com/MobinAlimohammadi/MobinAlimohammadi/blob/output/github-contribution-grid-snake2.svg)
 ---
-<pre align="center">
+<pre align="left">
   
   
                        _  _     ____________.--.
