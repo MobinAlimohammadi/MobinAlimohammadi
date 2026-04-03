@@ -1,60 +1,41 @@
-<h1 align="center">hey, i'm mobin 👋</h1>
+<h1 align="center">mobin alimohammadi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=machine+learning+enthusiast;building+cool+stuff;always+learning+new+things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&lines=engineering+intelligence+across+software+and+systems;ml+%2B+embedded+%2B+autonomy;building+things+that+actually+move" />
 </p>
 
 <p align="center">
-  i like building things with code, especially around ai + software.
+  electrical engineering @ university of toronto  
+  working across machine learning, embedded systems, and autonomous platforms
 </p>
 
 ---
 
-### 🧠 about me
+### ⚡ what i do
 
-- 🧪 interested in: **machine learning / ai / software**
-- 🚀 currently working on: **your current project here**
-- 📚 learning: **whatever you're learning rn**
-- ⚡ fun fact: **i probably debug more than i code**
+i build systems that sit at the intersection of **intelligence and hardware** —  
+from evaluating large models to designing real-world systems that move, sense, and adapt.
 
----
-
-### 🛠️ tech
-
-<p>
-  <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" />
-</p>
+- worked on **multimodal evaluation for large language models** (gemini project @ google deepmind)
+- developing **electric drivetrain systems** (u of t formula racing / supermileage)
+- building **autonomous uavs** with custom control + power architectures
+- interested in **ml + physical systems + control**
 
 ---
 
-### 📊 stats
+### 🧠 current focus
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MobinAlimohammadi&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MobinAlimohammadi&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🚀 featured project
-
-#### 🔥 your coolest project
-short description of what it does.
-
-- what it does: **explain simply**
-- stack: **python / whatever**
-- why it's cool: **your flex**
-
-[view project](https://github.com/MobinAlimohammadi)
+- scaling **evaluation + reasoning in large models**
+- **sensor fusion + control systems**
+- high-efficiency **power electronics + embedded design**
 
 ---
 
-### 🌐 connect
+### 🛠️ stack
 
-<p>
-  <a href="https://github.com/MobinAlimohammadi">GitHub</a>
-</p>
+```txt
+languages:    python / c++ / javascript / bash
+ml/ai:        pytorch / multimodal systems / evaluation pipelines
+embedded:     pcb design / motor control / power electronics
+systems:      linux / virtualization / distributed systems
+web:          node / express / vue / rest apis
