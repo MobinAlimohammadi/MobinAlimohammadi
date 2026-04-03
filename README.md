@@ -39,9 +39,9 @@
     <td valign="top" width="33%">
 
 ### 🤝 Connect
-- LinkedIn: **[placeholder]**  
-- Email: **[placeholder]**  
-- Portfolio: **[placeholder]**  
+- LinkedIn: **https://www.linkedin.com/in/mobinalimo/**  
+- Email: **--**  
+- Portfolio: **pending...**  
 
     </td>
   </tr>
