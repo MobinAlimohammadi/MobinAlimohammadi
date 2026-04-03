@@ -119,7 +119,7 @@
 
 ## 🐍 Snake 
 
-(https://github.com/MobinAlimohammadi/MobinAlimohammadi/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/MobinAlimohammadi/MobinAlimohammadi/blob/output/github-contribution-grid-snake2.svg)
 ---
 
 <div align="center">
