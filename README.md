@@ -74,9 +74,9 @@
 
 ---
 
-## 📌 Featured (GitHub-native cards — no rate limits)
+## 📌 Featured 
 
-<!-- These use GitHub’s own OpenGraph images (reliable). Swap repos any time. -->
+
 <div align="center">
   <a href="https://github.com/MobinAlimohammadi/budget-tracker">
     <img src="https://opengraph.githubassets.com/1/MobinAlimohammadi/budget-tracker" width="49%" alt="budget-tracker"/>
